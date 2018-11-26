@@ -1,0 +1,7 @@
+#Mon Nov 26 14:03:36 ICT 2018
+base.0=C\:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e68e693a23f15365018b971cd5713af67dd41893
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5912cadda338283b87e5a443d5b776595b90144c\\classes.dex
+base.1=C\:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5912cadda338283b87e5a443d5b776595b90144c
+file.0=C\:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e68e693a23f15365018b971cd5713af67dd41893\\classes.dex

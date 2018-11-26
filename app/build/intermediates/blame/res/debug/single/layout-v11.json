@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\3f1f26e61ecd7f36a2d64039d3d09f48d7c8d5f9\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\3f1f26e61ecd7f36a2d64039d3d09f48d7c8d5f9\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\3f1f26e61ecd7f36a2d64039d3d09f48d7c8d5f9\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\3f1f26e61ecd7f36a2d64039d3d09f48d7c8d5f9\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\3f1f26e61ecd7f36a2d64039d3d09f48d7c8d5f9\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\3f1f26e61ecd7f36a2d64039d3d09f48d7c8d5f9\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]

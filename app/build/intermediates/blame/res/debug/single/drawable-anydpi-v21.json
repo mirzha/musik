@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_previous.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\11982b380bbceba69f4f798834d594a389dd6025\\output\\res\\drawable-anydpi-v21\\exo_controls_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_music_note.xml",
+        "source": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_music_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_pause.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\11982b380bbceba69f4f798834d594a389dd6025\\output\\res\\drawable-anydpi-v21\\exo_controls_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_play.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\11982b380bbceba69f4f798834d594a389dd6025\\output\\res\\drawable-anydpi-v21\\exo_controls_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_fastforward.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\11982b380bbceba69f4f798834d594a389dd6025\\output\\res\\drawable-anydpi-v21\\exo_controls_fastforward.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_rewind.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\11982b380bbceba69f4f798834d594a389dd6025\\output\\res\\drawable-anydpi-v21\\exo_controls_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\mirza\\AndroidStudioProjects\\musicQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_next.xml",
+        "source": "C:\\Users\\mirza\\.android\\build-cache\\11982b380bbceba69f4f798834d594a389dd6025\\output\\res\\drawable-anydpi-v21\\exo_controls_next.xml"
+    }
+]
